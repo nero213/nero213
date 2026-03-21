@@ -29,16 +29,6 @@
 
 <br />
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/your-username/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/your-username/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical" alt="Project 2" />
-  </a>
-</div>
 
 <br />
 
