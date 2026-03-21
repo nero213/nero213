@@ -17,7 +17,7 @@
 
 <br />
 
-## 🚀 Technologies & Tools
+##  Technologies & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -32,7 +32,7 @@
 
 <br />
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/your-username">
