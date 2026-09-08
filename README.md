@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=680&lines=Building+web+applications+from+idea+to+deployment.;Frontend+%7C+Backend+%7C+Database+%7C+AI+Integration.;Turning+real+problems+into+working+software." alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=nero213&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=aaaaaa" alt="GitHub Streak" />
+  &nbsp;
+</div>
 <br/>
 
 <div align="center">
@@ -29,6 +33,12 @@
 </div>
 
 <br/>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nero213/nero213/output/snake.svg" alt="Contribution Snake" />
+</div>
 
 ---
 
@@ -71,33 +81,47 @@ Currently available for freelance projects and open to collaboration.
 ## Featured Projects
 
 ### 🟦 Alalay Connect
+
 **A community service platform — Thesis Project**
 
 A web application that connects residents with skilled local workers, inspired by the need for accessible and trusted community services. Built as a Progressive Web App with full authentication, geolocation-based discovery, and a service request system.
 
-> `Vue.js` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `MariaDB` &nbsp; `REST API` &nbsp; `PWA` &nbsp; `Authentication` &nbsp; `Geolocation`
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-00D4FF?style=flat-square&logo=fastapi&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
 [![View Live →](https://img.shields.io/badge/Live%20App%20→-0d0d0d?style=flat-square&logo=vercel&logoColor=00D4FF)](https://alalay-connect.vercel.app)
 
 <br/>
 
 ### ☕ Morrow & Roast
+
 **A specialty coffee shop website with editorial design**
 
 A premium website for an independent coffee brand, built with strong attention to typography, scroll animation, and atmosphere. Features a dynamic JavaScript-driven menu, parallax imagery, and a fully responsive layout.
 
-> `HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `Scroll Animation` &nbsp; `Responsive Design`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 [![View Live →](https://img.shields.io/badge/Live%20Site%20→-0d0d0d?style=flat-square&logo=cloudflare&logoColor=00D4FF)](https://morrow-and-roast.pages.dev)
 
 <br/>
 
 ### 🚗 Apex Atelier
+
 **A luxury exotic car dealership platform**
 
 A feature-rich automotive website with curated hypercar inventory, real-time filtering, an interactive vehicle configurator (paint, calipers, wheels), a finance calculator, and a VIP concierge section. Demonstrates complex UI state management and data-driven rendering.
 
-> `HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `Dynamic Filtering` &nbsp; `Interactive Configurator` &nbsp; `Finance Calculator`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 [![View Live →](https://img.shields.io/badge/Live%20Site%20→-0d0d0d?style=flat-square&logo=cloudflare&logoColor=00D4FF)](https://apex-atelier.pages.dev)
 
@@ -135,22 +159,6 @@ A feature-rich automotive website with curated hypercar inventory, real-time fil
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=nero213&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=aaaaaa" alt="GitHub Streak" />
-  &nbsp;
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=nero213&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nero213/nero213/output/snake.svg" alt="Contribution Snake" />
-</div>
-
----
-
 ## Currently
 
 ```
@@ -172,13 +180,13 @@ Have a project in mind? Let's build something useful.
     <img src="https://img.shields.io/badge/Portfolio-robekyle--portfolio.pages.dev-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d0d" alt="Portfolio" />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <a href="https://www.linkedin.com/in/robe-kyle-salangad-503b74363/">
     <img src="https://img.shields.io/badge/LinkedIn-Robe%20Kyle%20Salangad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="LinkedIn" />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <a href="mailto:robekyle3@gmail.com">
     <img src="https://img.shields.io/badge/Email-robekyle3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" alt="Email" />
